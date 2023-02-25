@@ -21,4 +21,11 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications
+=============
 
+For each gutenberg HTML file:
+
+1. Comment out the original style tags with their contents
+2. Add a link to gutenberg stylesheet CSS file
+3. Update the href and src for the cover image
