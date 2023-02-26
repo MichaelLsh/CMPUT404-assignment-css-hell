@@ -1,0 +1,73 @@
+.header {
+    padding: 25px;
+    text-align: center;
+    background-color: aqua;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: red;
+    font-size: 30px;
+    border: none;
+  }
+  
+.selfintro{
+    display: inline-block;
+    width: 70%;
+    padding-left: 50px;
+    color: orange;
+    background-color: blueviolet;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+h3, h4, ul {
+    margin: 0%;
+}
+
+ul {
+    margin-bottom: 10px;
+}
+
+.sidenav {
+    float: right;
+    width: 20%;
+}
+
+.points {
+    background-color: greenyellow;
+}
+
+.picture {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.centre {
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: yellow;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: yellowgreen;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: blue;
+    color: white;
+}

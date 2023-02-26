@@ -1,0 +1,71 @@
+.header {
+    padding: 25px;
+    text-align: center;
+    background-image: url(Assets/Background_Image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: black;
+    font-size: 30px;
+    border: none;
+  }
+  
+  .selfintro{
+      display: inline-block;
+      width: 70%;
+      padding-left: 50px;
+  }
+  
+  p {
+      padding-bottom: 20px;
+  }
+  
+  h3, h4, ul {
+      margin: 0%;
+  }
+  
+  ul {
+      margin-bottom: 10px;
+  }
+  
+  .sidenav {
+      float: right;
+      width: 20%;
+  }
+  
+  .points {
+      background-color: whitesmoke;
+  }
+  
+  .picture {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+  
+  .centre {
+      text-align: center;
+  }
+  
+  .topnav {
+      overflow: hidden;
+      background-color: dimgrey;
+  }
+    
+  .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+  .topnav a:hover {
+      background-color: wheat;
+      color: black;
+  }
+    
+  .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+  }
