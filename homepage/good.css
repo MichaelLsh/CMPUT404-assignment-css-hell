@@ -9,7 +9,31 @@
     font-size: 32px;
     border: none;
   }
-  
+
+  .topnavbar {
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+.topnavbar a {
+    float: left;
+    color: wheat;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.topnavbar a:hover {
+    background-color: wheat;
+    color: black;
+}
+
+.topnavbar a.active {
+    background-color: greenyellow;
+    color: white;
+}
+
 .selfintro{
     display: inline-block;
     width: 70%;
@@ -28,9 +52,10 @@ ul {
     margin-bottom: 10px;
 }
 
-.sidenav {
+.sidenavbar {
+    width: 22%;
     float: right;
-    width: 20%;
+    
 }
 
 .points {
@@ -46,26 +71,3 @@ ul {
     text-align: center;
 }
 
-.topnav {
-    overflow: hidden;
-    background-color: dimgrey;
-}
-
-.topnav a {
-    float: left;
-    color: #f2f2f2ed;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topnav a:hover {
-    background-color: wheat;
-    color: black;
-}
-
-.topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-}
