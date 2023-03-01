@@ -1,13 +1,13 @@
 .header {
-    padding: 25px;
-    text-align: center;
     background-image: url(Assets/Rainbow.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    padding: 25px;
+    text-align: center;
     color: white;
     font-size: 32px;
-    border: none;
+    border: black;
   }
 .body {
     background-image: url(Assets/Rainbow.jpg);

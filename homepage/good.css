@@ -1,18 +1,18 @@
 .header {
-    padding: 25px;
-    text-align: center;
     background-image: url(Assets/Background_Image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    padding: 25px;
+    text-align: center;
     color: black;
     font-size: 32px;
-    border: none;
+    border: black;
   }
 
-  .topnavbar {
-    overflow: hidden;
-    background-color: dimgrey;
+.topnavbar {
+overflow: hidden;
+background-color: dimgrey;
 }
 
 .topnavbar a {
