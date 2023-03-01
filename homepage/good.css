@@ -44,30 +44,33 @@ p {
     padding-bottom: 25px;
 }
 
-h3, h4, ul {
-    margin: 10%;
-}
-
-ul {
-    margin-bottom: 10px;
-}
-
-.sidenavbar {
-    width: 22%;
-    float: right;
-    
-}
-
 .points {
     background-color: whitesmoke;
 }
 
 .picture {
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 
 .centre {
     text-align: center;
 }
+
+h3, h4, ul {
+    margin: 15%;
+}
+
+.sidenavbar {
+    width: 22%;
+    float: right;
+}
+
+ul {
+    margin-bottom: 12px;
+}
+
+
+
+
 

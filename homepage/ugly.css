@@ -12,7 +12,7 @@
 .body {
     background-image: url(Assets/Rainbow.jpg);
 }
-  .topnavbar {
+.topnavbar {
     overflow: hidden;
     background-color: green;
 }
@@ -47,21 +47,6 @@ p {
     padding-bottom: 25px;
 }
 
-h3, h4, ul {
-    margin: 10%;
-}
-
-ul {
-    margin-bottom: 10px;
-}
-
-.sidenavbar {
-    background-image: url(Assets/Rainbow.jpg);
-    width: 22%;
-    float: right;
-    
-}
-
 .points {
     background-image: url(Assets/Rainbow.jpg);
     background-color: red;
@@ -75,4 +60,21 @@ ul {
 .centre {
     text-align: center;
 }
+
+h3, h4, ul {
+    margin: 10%;
+}
+
+.sidenavbar {
+    background-image: url(Assets/Rainbow.jpg);
+    width: 22%;
+    float: right;
+    
+}
+
+ul {
+    margin-bottom: 10px;
+}
+
+
 
